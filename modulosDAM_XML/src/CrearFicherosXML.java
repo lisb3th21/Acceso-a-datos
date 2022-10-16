@@ -18,7 +18,7 @@ public class CrearFicherosXML {
 
     
     public static final String filepath = System.getProperty("user.dir") + System.getProperty("file.separator")
-            + "Prueba.txt";
+            + "Prueba1.txt";
 
     public static void matricula() {
         try {
@@ -56,8 +56,12 @@ public class CrearFicherosXML {
         }
     }
 
+
+
+
+
     public static void main(String[] args) {
-        // System.out.println(filepath);
+        System.out.println(filepath);
 
         matricula();
     }
