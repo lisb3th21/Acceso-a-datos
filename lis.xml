@@ -1,0 +1,19 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<cicle codi="IFC32" nom="Desarrollo de aplicaciones multiplataforma" sigles="DAM" tipus="CFGS">
+    <modul codi="0493" curs="DAM1">
+        <nom>Formacion y orientacion laboral</nom>
+        <nombreHores>90</nombreHores>
+    </modul>
+    <modul codi="0495" curs="DAM2">
+        <nom>Formacion en centros de trabajo</nom>
+        <nombreHores>400</nombreHores>
+    </modul>
+    <modul codi="0491" curs="DAM2">
+        <nom>Sistemas de gestión empresarial</nom>
+        <nombreHores>95</nombreHores>
+    </modul>
+    <modul codi="0488" curs="DAM2">
+        <nom>Desarrollo de interfaces</nom>
+        <nombreHores>125</nombreHores>
+    </modul>
+</cicle>

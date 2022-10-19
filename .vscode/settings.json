@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "modulosDAM_XML/src/json/json-20220924.jar"
+    ]
+}
