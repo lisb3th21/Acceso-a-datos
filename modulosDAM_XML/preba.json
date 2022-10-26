@@ -1,0 +1,34 @@
+{
+  "cicle": {
+    "modul": [
+      {
+        "curs": "DAM1",
+        "nom": "Formacion y orientacion laboral",
+        "nombreHores": 90,
+        "codi": "0493"
+      },
+      {
+        "curs": "DAM2",
+        "nom": "Formacion en centros de trabajo",
+        "nombreHores": 400,
+        "codi": "0495"
+      },
+      {
+        "curs": "DAM2",
+        "nom": "Sistemas de gestión empresarial",
+        "nombreHores": 95,
+        "codi": "0491"
+      },
+      {
+        "curs": "DAM2",
+        "nom": "Desarrollo de interfaces",
+        "nombreHores": 125,
+        "codi": "0488"
+      }
+    ],
+    "sigles": "DAM",
+    "nom": "Desarrollo de aplicaciones multiplataforma",
+    "tipus": "CFGS",
+    "codi": "IFC32"
+  }
+}

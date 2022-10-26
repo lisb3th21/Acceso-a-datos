@@ -12,8 +12,8 @@ public class leerArchivos {
             
             SAXParserFactory saxParserFactory = SAXParserFactory.newInstance();
             SAXParser saxParser = saxParserFactory.newSAXParser();
-            LaOtraClaseParaLeer laOtraClaseParaLeer = new LaOtraClaseParaLeer();
-            saxParser.parse(rutaFitxer, laOtraClaseParaLeer);
+            //LaOtraClaseParaLeer laOtraClaseParaLeer = new LaOtraClaseParaLeer();
+           // saxParser.parse(rutaFitxer, laOtraClaseParaLeer);
 
 
 

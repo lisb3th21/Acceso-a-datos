@@ -1,0 +1,33 @@
+{
+  "cicle": {
+    "cusros": {
+        
+      "curso2": [
+        {
+          "nom": "Formacion en centros de trabajo",
+          "nombreHores": 400,
+          "codi": "0495"
+        },
+        {
+          "nom": "Sistemas de gestión empresarial",
+          "nombreHores": 95,
+          "codi": "0491"
+        },
+        {
+          "nom": "Desarrollo de interfaces",
+          "nombreHores": 125,
+          "codi": "0488"
+        }
+      ],
+      "curso1": {
+        "nom": "Formacion y orientacion laboral",
+        "nombreHores": 90,
+        "codi": "0493"
+      }
+    },
+    "sigles": "DAM",
+    "nom": "Desarrollo de aplicaciones multiplataforma",
+    "tipus": "CFGS",
+    "codi": "IFC32"
+  }
+}
