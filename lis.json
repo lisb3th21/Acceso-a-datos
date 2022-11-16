@@ -5,7 +5,7 @@
     "nom": "Desarrollo de aplicaciones multiplataforma",
     "tipus": "CFGS",
     "codi": "IFC32"},
-    "cursos": [
+    "segundo año": [
       {
         "nom": "Formacion en centros de trabajo",
         "nombreHores": 400,
@@ -22,7 +22,7 @@
         "codi": "0488"
       }
     ],
-    "curso1": {
+    "primer año": {
       "nom": "Formacion y orientacion laboral",
       "nombreHores": 90,
       "codi": "0493"
