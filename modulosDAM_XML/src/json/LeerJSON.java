@@ -12,12 +12,12 @@ public class LeerJSON {
 
     public static void main(String[] args) {
         try {
-
             String stringFicheroJSON = new String(Files.readAllBytes(Paths.get(ruta)));
             // Creo el objeto JSON
             JSONObject jsonObj = new JSONObject(stringFicheroJSON);
             // Obtengo las claves raices: [segundo aÃ±o, cicle, primer aÃ±o]
             Set<String> raiz = jsonObj.keySet();
+
             /*
              * El el primer for recogo las claves externas y obtengo el objeto
              */
